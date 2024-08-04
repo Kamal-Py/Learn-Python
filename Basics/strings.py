@@ -1,5 +1,4 @@
 # Normal print statement with + operator to concatination the strings
-from turtle import back
 
 
 print("Hello" + " " + "World!")
@@ -147,7 +146,7 @@ print(f"PI is approximately {PI:12.50f}")
 
 
 
-#! Python 2 String Interpolation: (Not recommended to use in Pytohn 3)
+#! Python 2 String Interpolation: (Not recommended to use in Python 3)
 age = 20
 print("My age is %d years" % age)
 
